@@ -1,6 +1,6 @@
 {
     "name": "alternativepayments/alternativepayments",
-    "description": "Official PHP SDK for Alternative Payments API",
+    "description": "Official PHP SDK for Alternative Payments API - inonbaguio forked",
     "homepage": "http://www.alternativepayments.com",
     "license": "MIT",
     "authors": [
